@@ -40,7 +40,7 @@ Geographic mapping application visualizing road networks and POIs for cities wor
 | Role | Company | Stack | When |
 |------|---------|-------|------|
 | **Software Developer Intern** | Turing Analytics Inc. | React, C#, Golang, Rust, REST APIs | May 2024 – Apr 2025 |
-| **Data Engineer Intern** | Teine Energy Ltd. | Python, Power BI | May 2023 – Aug 2023 |
+| **Data Engineer Intern** | Teine Energy Ltd. | Python, Databricks, Power BI | May 2023 – Aug 2023 |
 
 ---
 
