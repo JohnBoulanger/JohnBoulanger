@@ -26,8 +26,6 @@ Led development of a drone-based early wildfire detection system with a multi-se
 ### Visus — Real-Time Optometry Staffing Platform
 `React` `TypeScript` `Node.js` `Express` `Prisma` `SQLite` `WebSockets`
 
-**[🔗 Live Demo](https://visus-production-ceda.up.railway.app/)**
-
 Built a full-stack staffing platform connecting optometry clinics with temporary professionals. Features two-way interest matching, qualification-based filtering, JWT auth with role-based access for three user types, and real-time hire negotiations via WebSocket chat windows with automatic room management.
 
 ### City Mapper — Lead Developer
