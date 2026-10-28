@@ -28,7 +28,7 @@ Led development of a drone-based early wildfire detection system with a multi-se
 
 Built a full-stack staffing platform connecting optometry clinics with temporary professionals. Features two-way interest matching, qualification-based filtering, JWT auth with role-based access for three user types, and real-time hire negotiations via WebSocket chat windows with automatic room management.
 
-### City Mapper — Lead Developer
+### Dijkstreet — Lead Developer
 `C++` `GTK` `EZGL` `OpenStreetMap API`
 
 Geographic mapping application visualizing road networks and POIs for cities worldwide. Implemented A* pathfinding over real-world road graphs, computing optimal routes across city-scale datasets with tens of thousands of intersections.
