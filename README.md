@@ -19,11 +19,11 @@ New grad with a 3.90 GPA and 2+ years of industry experience across oil & gas pl
 ## 🏗 Featured Projects
 
 ### Wildfire Detection System — Project Lead
-`Python` `React` `TypeScript` `PyTorch` `AWS`
+`AWS` `React` `Python` `TypeScript` `PyTorch` 
 
 Led development of a drone-based early wildfire detection system with a multi-sensor ML pipeline fusing RGB, IR, and UV camera data with onboard telemetry. Built a React dashboard for live fire event visualization on an interactive map, connected to a cloud-deployed AWS inference pipeline.
 
-### Visus — Real-Time Optometry Staffing Platform
+### Blink — Real-Time Optometry Staffing Platform
 `React` `TypeScript` `Node.js` `Express` `Prisma` `SQLite` `WebSockets`
 
 Built a full-stack staffing platform connecting optometry clinics with temporary professionals. Features two-way interest matching, qualification-based filtering, JWT auth with role-based access for three user types, and real-time hire negotiations via WebSocket chat windows with automatic room management.
