@@ -1,6 +1,6 @@
 # Hey, I'm John 👋
 
-**Full-Stack & AI/ML Software Engineer · Computer Engineering @ The University of Toronto**
+**SWE @ Novi Labs | Computer Engineering @ The University of Toronto**
 
 New grad with a 3.90 GPA and 2+ years of industry experience across oil & gas platforms and operational data tooling. I like building things end-to-end — from ML pipelines and real-time backends to polished React frontends. Canadian citizen, authorized to work in the U.S. under TN status.
 
